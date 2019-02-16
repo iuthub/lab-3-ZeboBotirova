@@ -1,0 +1,58 @@
+body
+{
+	background-image: url("back_image.jpg");
+	background-position: auto; 
+	
+	margin: 50px;
+}
+#total{
+    clear: left;
+	border: 10px white solid;
+	background-color: white;
+	margin: 0 10%;	
+}
+#header
+{
+	/*border: 5px red solid;*/
+    text-align: right; 
+    background-color: #A8F0F0;  
+}
+img{
+	float: right;
+}
+
+#inheader{
+
+font-size: 14pt;
+}
+#body1{
+	height: 160px;
+	border: 4px #C2E9E9 solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin: 10px 0 0 0;
+   /* clear: right;*/
+}
+#body2{
+	height: 210px;
+	border: 4px #C2E9E9 solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin: 10px 0 0 0;
+
+}
+.date
+{
+	border-bottom: 2px blue dashed;
+}
+#friends{
+    background-color: cyan;
+	border: 4px lightblue solid;
+	float: left;
+	margin: 15px;
+	padding: 5px;
+}
+.main{
+	padding: 5px;
+	overflow: hidden;
+}
